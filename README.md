@@ -5,11 +5,11 @@ LuminaNT is a heavily work-in-progress fully open-source operating system that a
 This project is in early development and is currently a heavily work-in-progress (WIP). It is not yet intended for production environments.
 
 This was assisted by LLM's in terms of:
-Reverse Engineering help and understanding of specific kernel architectures
-Brainstorming
-UI Colors (Deciding which to use.)
-Faster understanding of the ReactOS source
-Readme design (not this one)
+- Reverse Engineering help and understanding of specific kernel architectures
+- Brainstorming
+- UI Colors (Deciding which to use.)
+- Faster understanding of the ReactOS source
+- Readme design (not this one)
 
 
 This project incorporates code snippets, architectural designs, or files derived from several upstream open-source projects. Because these components utilize different versions of the GNU General Public License, the combined work is strictly bound by Copyleft compatibility requirements:
