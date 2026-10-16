@@ -17,6 +17,7 @@ This project incorporates code snippets, architectural designs, or files derived
 - ReactOS (Licensed under GNU GPLv2 or later)
 - The Linux Kernel (Licensed under GNU GPLv2)
 - Wine (Licensed under GNU LGPLv2.1 or later)
+
 To comply with the licensing terms of all upstream sources, specifically the infectious copyleft requirements of GPLv3 introduced via LiberNT, the entire LuminaNT project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 
