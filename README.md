@@ -1,5 +1,5 @@
 # LuminaNT
-LuminaNT is a heavily work-in-progress fully open-source operating system that aims to provide Windows NT 10.0 software compatability.
+LuminaNT is a heavily work-in-progress fully open-source operating system that aims to provide Windows NT 10.0 Kernel (Windows 11/10) software compatability.
 
 > [!WARNING]
 This project is in early development and is currently a heavily work-in-progress (WIP). It is not yet intended for production environments.
