@@ -12,7 +12,7 @@ This was assisted by LLM's in terms of:
 - Readme design (not this one)
 
 Reason for this is the scope of the Project compared to the size of the team. (currently 1 Person).
-
+Not always used tho, just sometimes.
 
 
 This project incorporates code snippets, architectural designs, or files derived from several upstream open-source projects. Because these components utilize different versions of the GNU General Public License, the combined work is strictly bound by Copyleft compatibility requirements:
